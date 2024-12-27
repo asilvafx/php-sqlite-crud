@@ -1,4 +1,4 @@
-# SQLite CRUD
+# PHP SQLite CRUD
 
 Simple PHP Slim Database CRUD application using SQLite3.
 
@@ -18,7 +18,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 
 ## Features
 
-- Middleware for JSON parsing using Express.
+- Middleware for JSON parsing using PHP Slim.
 - CRUD operations on any specified table.
 - Easy to start and deploy.
 
