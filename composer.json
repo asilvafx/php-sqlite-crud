@@ -1,0 +1,15 @@
+{
+    "name": "slim/php-sqlite-crud",
+    "authors": [
+        {
+            "name": "António Da Silva",
+            "email": "73810823+asilvafx@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.7",
+        "guzzlehttp/psr7": "^2",
+        "laminas/laminas-diactoros": "^3.5"
+    }
+}
